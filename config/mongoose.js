@@ -3,7 +3,7 @@ require('dotenv').config();
 const mongoose = require('mongoose');
 
 // here we are using the MongoDB Url (i.e. Mondodb Atlas)
-const db = "mongodb+srv://rajendrasarak622:q54QklWF8qLVfULf@cluster0.20texjy.mongodb.net/?retryWrites=true&w=majority";
+const db = "mongodb+srv://jyotiyadav:12345@cluster0.dx0emas.mongodb.net/";
 
 mongoose.connect(db, {
     useNewUrlParser: true,
