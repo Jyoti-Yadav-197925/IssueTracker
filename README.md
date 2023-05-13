@@ -4,7 +4,7 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 # Hosted URL
 
-https://issuetracker-rajendrasarak.onrender.com/
+https://issue-tracker-tgp0.onrender.com/
 
 # How to use ?
 
@@ -14,7 +14,7 @@ Run this command in your GitHub CLI
 
 # or use the URL
 
-https://github.com/rajendrasarak90/Issue-Tracker
+https://github.com/Jyoti-Yadav-197925/IssueTracker
 
 # Features
 
