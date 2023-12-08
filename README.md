@@ -6,11 +6,6 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 https://issue-tracker-tgp0.onrender.com/
 
-# How to use ?
-
-Run this command in your GitHub CLI
-
-- gh repo clone rajendrasarak90/Issue-Tracker
 
 # or use the URL
 
